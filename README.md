@@ -39,12 +39,4 @@ The system is designed as a personal quant research lab rather than a production
 - Separation of computation and language layers
 - Easily extensible for additional models
 
----
-
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/quant-research-agent.git
-cd quant-research-agent
+search-agent
