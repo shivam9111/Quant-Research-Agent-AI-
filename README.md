@@ -20,6 +20,18 @@ This project is designed as a modular quantitative research laboratory rather th
 
 ---
 
+## Mathematical Foundation
+
+The quantitative engine is grounded in classical asset pricing theory:
+
+- Black-Scholes-Merton framework under risk-neutral valuation.
+- Continuous-time stochastic modelling of asset prices via geometric Brownian motion.
+- Closed-form European option pricing derived from no-arbitrage and dynamic replication arguments.
+- Implied volatility recovery via numerical root-finding.
+- Cox-Ross-Rubinstein binomial tree as a discrete-time approximation to the continuous-time model.
+
+---
+
 ## Features
 
 ### Quantitative Engine
